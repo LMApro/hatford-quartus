@@ -1,0 +1,15 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+ENTITY part3 IS
+	PORT (
+		
+	);
+END part3;
+
+ARCHITECTURE structure OF part3 IS
+	
+	
+BEGIN
+	
+END structure;
